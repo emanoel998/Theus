@@ -1,9 +1,3 @@
---[[
-🔥 Blox Fruits - Theus☯️ Hub
-📦 Completo com Auto Farm, ESP, Frutas, Raças, Teleporte
-🎨 Logo personalizada e nome customizado por ChatGPT
-]]
-
 -- Carrega Rayfield GUI
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
